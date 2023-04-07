@@ -1,0 +1,38 @@
+#task-item {
+    margin-top: 16px;
+    padding: 24px 12px;
+    border: 1px solid #273e5a;
+}
+
+#task-item .checkbox-input {
+    line-height: 1.7;
+}
+
+/* #task-item .checkbox-input {
+    line-height: 1.7;
+}
+
+#task-item .task-title {
+    font-size: 15px;
+} */
+
+/* #task-item .detail-btn,
+#task-item .remove-btn {
+    width: 100%;
+    padding: 6px 0;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 4px;
+    background-clip: border-box;
+    background-color: #00bcd4;
+}
+
+#task-item .remove-btn {
+    background-color: #d9534f;
+}
+
+#task-item .detail-btn:hover,
+#task-item .remove-btn:hover {
+    opacity: 0.9;
+} */
